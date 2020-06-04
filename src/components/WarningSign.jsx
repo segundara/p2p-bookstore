@@ -1,5 +1,5 @@
 import React from 'react';
-import {Alert, Badge} from 'react-bootstrap';
+import {Alert} from 'react-bootstrap';
 
 class WarningSign extends React.Component{
     render(){
